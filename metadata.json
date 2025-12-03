@@ -1,0 +1,5 @@
+{
+  "name": "Chuyển ảnh sang word",
+  "description": "A powerful tool to extract text from images and convert them into a single Microsoft Word document using Gemini AI.",
+  "requestFramePermissions": []
+}
